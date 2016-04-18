@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Calculadora
 //
-//  Created by Mac13 on 20/01/15.
-//  Copyright (c) 2015 fcc. All rights reserved.
+//  Created by Martín G. Morgado on 20/01/16.
+//  Copyright (c) 2016 geekblitz. All rights reserved.
 //
 
 import UIKit
